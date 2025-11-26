@@ -8,7 +8,7 @@ El proyecto aborda la necesidad de instrumentación de bajo costo para el análi
 
 *Mini-Espectrómetro: Hamamatsu C12880MA (288 píxeles, 340 nm a 850 nm)*
 
-##🛠️ Requisitos del Sistema
+## 🛠️ Requisitos del Sistema
 Para replicar el sistema de adquisición y análisis, necesitará:
 
 Hardware: Módulo Hamamatsu C12880MA, placa Arduino (o microcontrolador compatible con ADC).
