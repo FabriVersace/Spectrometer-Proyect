@@ -20,4 +20,5 @@ Librerías Python: pyserial, numpy, matplotlib, os, datetime.
 ### 🤝 Contacto
 
 Fabrizzio Sotelo Cárdenas
+
 _Pontificia Universidad Católica de Valparaíso, Chile._
